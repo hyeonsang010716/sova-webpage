@@ -1,0 +1,37 @@
+header {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5vw;
+  padding-top: 1vh;
+  position: fixed;
+  width: 100vw;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.header-logo img {
+  width: 10vw;
+}
+
+.header-menus {
+  width: 56vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.background-img {
+  width: 100vw;
+  height: 100vh;
+  background-color: #919191;
+}
+
+.about-us {
+  width: 100vw;
+  height: 100vh;
+}

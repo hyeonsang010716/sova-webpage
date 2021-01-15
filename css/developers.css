@@ -1,0 +1,29 @@
+html,
+body {
+  width: 100vw;
+  height: 250vh;
+}
+
+.developers {
+  width: 100vw;
+  height: 100vh;
+  background-color: #c4c4c4;
+}
+
+.vision {
+  width: 100vw;
+  height: 50vh;
+  background-color: #7c7c7c;
+}
+
+.core-value {
+  width: 100vw;
+  height: 50vh;
+  background-color: #c4c4c4;
+}
+
+.jcorep {
+  width: 100vw;
+  height: 50vh;
+  background-color: #7c7c7c;
+}

@@ -1,0 +1,27 @@
+html,
+body {
+  width: 100vw;
+  height: 200vh;
+}
+
+.title {
+  width: 100vw;
+  height: 50vh;
+  background-color: #7c7c7c;
+}
+
+.week1 {
+  width: 100vw;
+  height: 50vh;
+}
+
+.week2 {
+  width: 100vw;
+  height: 50vh;
+  background-color: #7c7c7c;
+}
+
+.week3 {
+  width: 100vw;
+  height: 50vh;
+}

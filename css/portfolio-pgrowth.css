@@ -1,0 +1,26 @@
+html,
+body {
+  width: 100vw;
+  height: 200vh;
+}
+
+.vedio {
+  width: 100vw;
+  height: 90vh;
+}
+
+.members {
+  width: 100vw;
+  height: 110vh;
+}
+
+.member {
+  width: 100vw;
+  height: 55vh;
+  background-color: #c7c7c7;
+}
+
+.member-detail {
+  width: 100vw;
+  height: 55vh;
+}
